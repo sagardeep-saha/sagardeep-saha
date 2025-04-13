@@ -90,15 +90,15 @@
         alt="pandas" width="40" height="40" />
 </p>
 
-
-<p><img align="left" style="height:180px;"
+<span>
+<p><img align="left" style="height:170px;"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sagardeep-saha&show_icons=true&locale=en&layout=compact"
         alt="sagardeep-saha" /></p>
 
-<p>&nbsp;<img align="right" style="height:180px;"
+<p>&nbsp;<img align="right" style="height:170px;"
         src="https://github-readme-stats.vercel.app/api?username=sagardeep-saha&show_icons=true&locale=en"
         alt="sagardeep-saha" /></p>
-
+</span>
 
 <!-- <p>&nbsp;<img align="center" style=""
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagardeep-saha&layout=compact&theme=radical"
